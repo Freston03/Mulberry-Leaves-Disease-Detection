@@ -46,10 +46,10 @@ B.It has website with it that can be used to predict the Diseases using other im
 Our work on Mulberry Leaves Disease Detection has been published in a peer-reviewed journal:
 International Research Journal of Modernization in Engineering Technology and Science (IRJMETS)
 Volume: 07, Issue: 05, May 2025
-Impact Factor: 8.187
-Authors: Shardul Shailendra Belgamwar + 4
+Impact Factor: 8.187,
+Authors: Shardul Shailendra Belgamwar + 4,
 Department of Computer Engineering, Smt. Kashibai Navale College Of Engineering, Pune, India
-DOI: https://www.doi.org/10.56726/IRJMETS77322
+DOI: https://www.doi.org/10.56726/IRJMETS77322,
 This paper presents our research methodology, dataset, and deep learning model for detecting diseases in mulberry leaves, providing a scientific reference for the project.
 
 
